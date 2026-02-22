@@ -4,6 +4,7 @@ This repository prepares historical marketing data to power a plain-language AI 
 
 ### Data
 [Global Ads Performance (Google, Meta, TikTok)](https://www.kaggle.com/datasets/nudratabbas/global-ads-performance-google-meta-tiktok/data)
+
 The goal is to:
 1. Split raw data into training and test sets
 2. Generate historical performance benchmarks
